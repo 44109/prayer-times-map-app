@@ -1,0 +1,31 @@
+{
+  "name": "Accurate Prayer Times",
+  "short_name": "Prayer Times",
+  "description": "Precise Islamic Prayer Schedule with 3D Earth View",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#4F46E5",
+  "theme_color": "#7C3AED",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/logo-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/logo-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["lifestyle", "utilities"],
+  "lang": "en",
+  "dir": "ltr"
+}
